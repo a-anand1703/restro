@@ -1,0 +1,60 @@
+ 
+.veg{
+    background: url('panner.jpg') 50% 0 repeat-y fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+}
+.nonveg{
+  background: url('nonveg.png') 50% 0 repeat-y fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff; 
+}
+.desserts{
+  background: url('desserts.jpg') 50% 0 repeat-y fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff; 
+}
+.head{
+    background: url('head.png') 50% 0 repeat-y fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+}
+.head h1{
+    font-size: 50px;
+    font-family:  'Gill Sans MT', Calibri,;
+    letter-spacing: 1px;
+    color:#CCCCCC;
+    
+}
+.head h5{
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    word-spacing: 3px;
+    color: white;
+}
+.head a{
+  font: bold 20px Arial;
+  text-decoration: none;
+  background-color: #c7c4c4;
+  color: #0a0a0a;
+  padding: 10px 25px 10px 25px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #131212;
+  border-bottom: 1px solid #070707;
+  border-left: 1px solid #CCCCCC;
+}
+.head p{
+  font-size: 20px;
+  color:rgb(47, 189, 224);
+  border: 10px rgb(224, 230, 146);
+  border-style: double;
+  margin: 20px 150px 20px 150px;
+  padding: 10px 20px 10px 20px;
+}
